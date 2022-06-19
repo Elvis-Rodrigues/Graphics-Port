@@ -1,0 +1,41 @@
+.letras {
+    position: absolute;
+    width: auto;
+    top: 310px;
+    margin-left: 122px;
+}
+
+.title1 {
+    width: 592px;
+    font-size: 62px;
+    font-weight: bold;
+    color: #766F68;
+}
+
+.title2 {
+    width: 420px;
+    font-size: 26px;
+    color: #766F68;
+    margin: 45px 0 0 0;
+}
+
+button {
+    margin: 67px 0 0 0;
+    width: 250px;
+    height: 60px;
+    font-size: 25px;
+    background-color: #D2872C;
+    font-weight: bold;
+    color: aliceblue;
+    border: 0px;
+    border-radius: 18px;
+    cursor: pointer;
+}
+
+img {
+    position: fixed;
+    width: 835px;
+    height: 452px;
+    top: 300px;
+    right: 200px;
+}

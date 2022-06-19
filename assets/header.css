@@ -1,0 +1,39 @@
+header {
+    margin-top: 90px;
+    margin-left: 0px; 
+}
+
+.caixa-menu {
+    width: auto;
+    margin-left: 60px;
+}
+
+.home {
+    text-decoration: none;
+    font-weight: bold;
+    color: #D2872C;
+    font-size: 40px;
+}
+
+nav {
+    position: absolute;
+    top: 90px;
+    right: 250px;
+}
+
+.lista-item {
+    display: inline;
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 32px;
+}
+
+a:link a:visited a:active {
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: #766F68;
+    font-size: 32px;
+}
