@@ -5,5 +5,5 @@
  <p>Primeiro projeto terminado, simples, mas marcante, finalizado em paralelo com o desenvolvimento do curso da alura. Projeto vindo do "DevChallenge", imenso agradecimento e obrigado por disponibilizar os desafios<p>
 
  <h1>Tech</h1>
- <h1>HTML</h1>
- <h1>CSS</h1>
+ <p>HTML</p>
+ <p>CSS</p>
